@@ -36,7 +36,8 @@
 3) Обновил прогнозное количество уроков, добавив новые значения из Задачи 1
 4) Просчитал сценарий, при котором Пропускная способность П увеличится на 15 процентов, а Retention П упадёт на 2 процента  
 5) С помощью Поиска решений составил новый план найма с ограничением: за месяц нельзя нанять более 70 преподавателей
-> <a [href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx](https://drive.google.com/drive/folders/1pez5MP0hN7ExW4ZcmUUga7a0CgB4ey6P?usp=sharing)">Ссылка на проект</a></ol>
+  
+> <a [href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx](https://drive.google.com/drive/folders/1pez5MP0hN7ExW4ZcmUUga7a0CgB4ey6P?usp=sharing)">Ссылка на проект</a>
 
  
 <p>Выводы (итоги):<p>
